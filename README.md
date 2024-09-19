@@ -15,11 +15,21 @@ A real-time chat application built with Flutter and Firebase.
 
 ## ScreenShots
 
-|   |   |   |
+| Login Page | Signup Page | Homepage Dark |
 |---|---|---|
 | ![login_page.png](screenshots%2Flogin_page.png) | ![signup_page.png](screenshots%2Fsignup_page.png) | ![homepage_dark.png](screenshots%2Fhomepage_dark.png) |
+
+| Homepage Light | Empty Search | Search Page |
+|---|---|---|
 | ![homepage_light.png](screenshots%2Fhomepage_light.png) | ![empty_search.png](screenshots%2Fempty_search.png) | ![searchpage.png](screenshots%2Fsearchpage.png) |
-| ![empty_chatpage.png](screenshots%2Fempty_chatpage.png) | ![chatpage.png](screenshots%2Fchatpage.png) | ![drawer.png](screenshots%2Fdrawer.png) || ![settings.png](screenshots%2Fsettings.png) | ![change_profile_info.png](screenshots%2Fchange_profile_info.png) | ![friends_profile_info.png](screenshots%2Ffriends_profile_info.png) |
+
+|Empty Chat Page | Chat Page | Drawer |
+|---|---|---|
+| ![empty_chatpage.png](screenshots%2Fempty_chatpage.png) | ![chatpage.png](screenshots%2Fchatpage.png) | ![drawer.png](screenshots%2Fdrawer.png) | 
+
+| Settings | Change Profile Info | Friends Profile Info |
+|---|---|---|
+| ![settings.png](screenshots%2Fsettings.png) | ![change_profile_info.png](screenshots%2Fchange_profile_info.png) | ![friends_profile_info.png](screenshots%2Ffriends_profile_info.png) |
 
 ## Getting Started
 
