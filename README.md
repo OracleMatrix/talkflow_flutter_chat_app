@@ -1,18 +1,28 @@
 # TalkFlow Chat App(Real-Time)
-=====================
 
 A real-time chat application built with Flutter and Firebase.
 
 ## Features
+<<<<<<< HEAD
 
-* Real-time messaging: Send and receive messages in real-time using Firebase Firestore.
-* User authentication: Authenticate users using Firebase Authentication.
-* User profiles: View and edit user profiles, including profile pictures and display names.
-* Friend system: Add and manage friends, and view their profiles.
-* Chat rooms: Create and join chat rooms with friends.
-* Media sharing: Share images and other media files in chat rooms.
-* Settings: View and edit app settings, including theme and notification preferences.
-* Delete account: Delete your account and all associated data.
+* **Real-time messaging:** Send and receive messages in real-time using Firebase Firestore.
+* **User authentication:** Authenticate users using Firebase Authentication.
+* **User profiles:** View and edit user profiles, including profile pictures and display names.
+* **Friend system:** Add and manage friends, and view their profiles.
+* **Chat rooms:** Create and join chat rooms with friends.
+* **Media sharing:** Share images and other media files in chat rooms.
+* **Settings:** View and edit app settings, including theme and notification preferences.
+* **Delete account:** Delete your account and all associated data.
+=======
+* **Real-time messaging:** Send and receive messages in real-time using Firebase Firestore.
+* **User authentication:** Authenticate users using Firebase Authentication.
+* **User profiles:** View and edit user profiles, including profile pictures and display names.
+* **Friend system:** Add and manage friends, and view their profiles.
+* **Chat rooms:** Create and join chat rooms with friends.
+* **Media sharing:** Share images and other media files in chat rooms.
+* **Settings:** View and edit app settings, including theme and notification preferences.
+* **Delete account:** Delete your account and all associated data.
+>>>>>>> 7f0b43679d33eb5711dc1a58e541eb6136d87488
 
 ## ScreenShots
 
@@ -26,6 +36,7 @@ A real-time chat application built with Flutter and Firebase.
 
 To get started with the TalkFlow Chat App, follow these steps:
 
+<<<<<<< HEAD
 1- Clone the repository: git clone https://github.com/OracleMatrix/talkflow-flutter-chat-app.git
 2- Install dependencies: flutter pub get
 3- Configure Firebase: Create a Firebase project and enable the Firestore and Authentication
@@ -36,6 +47,14 @@ configuration.
 **Note:** it's better after create project in your firebase console install flutterfire and run the
 command "flutterfire configure" in your project path, there is lots of videos about flutterfire on
 internet if you don't know!
+=======
+* 1- Clone the repository: git clone [https://github.com/OracleMatrix/talkflow-flutter-chat-app](https://github.com/OracleMatrix/talkflow_flutter_chat_app).git
+* 2- Install dependencies: flutter pub get
+* 3- Configure Firebase: Create a Firebase project and enable the Firestore and Authentication services. Then, create a firebase_options.dart file in the lib directory with your Firebase configuration.
+* 4- get the google-services.json and put it in /android/app
+* 5- Run the app: flutter run
+* **Note:** it's better after create project in your firebase console install flutterfire and run the command "flutterfire configure" in your project path, there is lots of videos about flutterfire on internet if you don't know!
+>>>>>>> 7f0b43679d33eb5711dc1a58e541eb6136d87488
 
 ## Code Structure
 
@@ -64,6 +83,10 @@ The app uses the following dependencies:
 * file_picker: A library for file picking in Flutter.
 
 ## Contributing
+<<<<<<< HEAD
 
 Contributions are welcome! If you'd like to contribute to the TalkFlow Chat App, please fork the
 repository and submit a pull request with your changes.
+=======
+Contributions are welcome! If you'd like to contribute to the TalkFlow Chat App, please fork the repository and submit a pull request with your changes.
+>>>>>>> 7f0b43679d33eb5711dc1a58e541eb6136d87488
