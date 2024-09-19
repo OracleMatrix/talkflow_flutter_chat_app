@@ -35,14 +35,14 @@ A real-time chat application built with Flutter and Firebase.
 
 To get started with the TalkFlow Chat App, follow these steps:
 
-1- Clone the repository: git clone https://github.com/OracleMatrix/talkflow-flutter-chat-app.git
-2- Install dependencies: flutter pub get
-3- Configure Firebase: Create a Firebase project and enable the Firestore and Authentication
-services. Then, create a firebase_options.dart file in the lib directory with your Firebase
+* 1- Clone the repository: git clone https://github.com/OracleMatrix/talkflow-flutter-chat-app.git
+* 2- Install dependencies: flutter pub get
+* 3- Configure Firebase: Create a Firebase project and enable the Firestore and Authentication
+* services. Then, create a firebase_options.dart file in the lib directory with your Firebase
 configuration.
-4- get the google-services.json and put it in /android/app
-5- Run the app: flutter run
-**Note:** it's better after create project in your firebase console install flutterfire and run the
+* 4- get the google-services.json and put it in /android/app
+* 5- Run the app: flutter run
+* **Note:** it's better after create project in your firebase console install flutterfire and run the
 command "flutterfire configure" in your project path, there is lots of videos about flutterfire on
 internet if you don't know!
 
