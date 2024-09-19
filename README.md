@@ -15,7 +15,7 @@ A real-time chat application built with Flutter and Firebase.
 
 ## ScreenShots
 
-|                               |                               |                               |
+|   |   |   |
 |---|---|---|
 | ![login_page.png](screenshots%2Flogin_page.png) | ![signup_page.png](screenshots%2Fsignup_page.png) | ![homepage_dark.png](screenshots%2Fhomepage_dark.png) |
 | ![homepage_light.png](screenshots%2Fhomepage_light.png) | ![empty_search.png](screenshots%2Fempty_search.png) | ![searchpage.png](screenshots%2Fsearchpage.png) |
