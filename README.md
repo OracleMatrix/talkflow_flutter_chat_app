@@ -3,7 +3,6 @@
 A real-time chat application built with Flutter and Firebase.
 
 ## Features
-<<<<<<< HEAD
 
 * **Real-time messaging:** Send and receive messages in real-time using Firebase Firestore.
 * **User authentication:** Authenticate users using Firebase Authentication.
@@ -17,7 +16,7 @@ A real-time chat application built with Flutter and Firebase.
 ## ScreenShots
 
 |                               |                               |                               |
-|-------------------------------|-------------------------------|-------------------------------|
+|---|---|---|
 | ![login_page.png](screenshots%2Flogin_page.png) | ![signup_page.png](screenshots%2Fsignup_page.png) | ![homepage_dark.png](screenshots%2Fhomepage_dark.png) |
 | ![homepage_light.png](screenshots%2Fhomepage_light.png) | ![empty_search.png](screenshots%2Fempty_search.png) | ![searchpage.png](screenshots%2Fsearchpage.png) |
 | ![empty_chatpage.png](screenshots%2Fempty_chatpage.png) | ![chatpage.png](screenshots%2Fchatpage.png) | ![drawer.png](screenshots%2Fdrawer.png) || ![settings.png](screenshots%2Fsettings.png) | ![change_profile_info.png](screenshots%2Fchange_profile_info.png) | ![friends_profile_info.png](screenshots%2Ffriends_profile_info.png) |
