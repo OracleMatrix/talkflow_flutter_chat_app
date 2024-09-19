@@ -1,5 +1,4 @@
 # TalkFlow Chat App(Real-Time)
-=====================
 
 A real-time chat application built with Flutter and Firebase.
 
