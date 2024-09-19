@@ -19,11 +19,11 @@ A real-time chat application built with Flutter and Firebase.
 |---|---|---|
 | ![login_page.png](screenshots%2Flogin_page.png) | ![signup_page.png](screenshots%2Fsignup_page.png) | ![homepage_dark.png](screenshots%2Fhomepage_dark.png) |
 
-| Homepage Light | Empty Search | Search Page |
+| Homepage Light | Empty Search | Search users with email |
 |---|---|---|
 | ![homepage_light.png](screenshots%2Fhomepage_light.png) | ![empty_search.png](screenshots%2Fempty_search.png) | ![searchpage.png](screenshots%2Fsearchpage.png) |
 
-|Empty Chat Page | Chat Page | Drawer |
+|Empty Chat Page | Chat Page send text messages and media | Drawer to see Current user info and more options |
 |---|---|---|
 | ![empty_chatpage.png](screenshots%2Fempty_chatpage.png) | ![chatpage.png](screenshots%2Fchatpage.png) | ![drawer.png](screenshots%2Fdrawer.png) | 
 
