@@ -64,10 +64,6 @@ The app uses the following dependencies:
 * file_picker: A library for file picking in Flutter.
 
 ## Contributing
-<<<<<<< HEAD
 
 Contributions are welcome! If you'd like to contribute to the TalkFlow Chat App, please fork the
 repository and submit a pull request with your changes.
-=======
-Contributions are welcome! If you'd like to contribute to the TalkFlow Chat App, please fork the repository and submit a pull request with your changes.
->>>>>>> 7f0b43679d33eb5711dc1a58e541eb6136d87488
