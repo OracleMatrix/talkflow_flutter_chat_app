@@ -4,13 +4,13 @@ A real-time chat application built with Flutter and Firebase.
 
 ## Features
 * **Real-time messaging:** Send and receive messages in real-time using Firebase Firestore.
-* User authentication: Authenticate users using Firebase Authentication.
-* User profiles: View and edit user profiles, including profile pictures and display names.
-* Friend system: Add and manage friends, and view their profiles.
-* Chat rooms: Create and join chat rooms with friends.
-* Media sharing: Share images and other media files in chat rooms.
-* Settings: View and edit app settings, including theme and notification preferences.
-* Delete account: Delete your account and all associated data.
+* **User authentication:** Authenticate users using Firebase Authentication.
+* **User profiles:** View and edit user profiles, including profile pictures and display names.
+* **Friend system:** Add and manage friends, and view their profiles.
+* **Chat rooms:** Create and join chat rooms with friends.
+* **Media sharing:** Share images and other media files in chat rooms.
+* **Settings:** View and edit app settings, including theme and notification preferences.
+* **Delete account:** Delete your account and all associated data.
 
 ## Getting Started
 To get started with the TalkFlow Chat App, follow these steps:
