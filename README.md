@@ -47,7 +47,7 @@ command "flutterfire configure" in your project path, there is lots of videos ab
 internet if you don't know!
 
 
-## Code Structure
+### Code Structure
 
 The code is organized into the following directories:
 
@@ -57,7 +57,7 @@ The code is organized into the following directories:
 * provider: Contains the Firebase provider, which handles Firebase authentication and data storage.
 * services: Contains services for handling tasks such as sending messages and uploading media.
 
-## Dependencies
+### Dependencies
 
 The app uses the following dependencies:
 
@@ -73,7 +73,7 @@ The app uses the following dependencies:
 * loading_animation_widget: A library for loading animations in Flutter.
 * file_picker: A library for file picking in Flutter.
 
-## Contributing
+### Contributing
 
 Contributions are welcome! If you'd like to contribute to the TalkFlow Chat App, please fork the
 repository and submit a pull request with your changes.
